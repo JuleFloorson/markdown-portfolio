@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* swim
+    * 3.8k
+* bike
+    * 180k
+* run
+    * 42k
